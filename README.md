@@ -66,7 +66,9 @@ This repository demonstrates an end‐to‐end workflow for:
 Install dependencies via pip:
 ```bash
 pip install torch torchvision opencv-python pandas numpy scikit-learn pillow matplotlib
-![image](https://github.com/user-attachments/assets/c51de623-5a1a-4c16-8818-1c4cd512fd0d)
+
+![image](https://github.com/user-attachments/assets/b09755d8-cc3b-4abc-901d-f0a5f042195c)
+
 cd Video
 
 
