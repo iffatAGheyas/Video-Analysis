@@ -67,8 +67,8 @@ Install dependencies via pip:
 ```bash
 pip install torch torchvision opencv-python pandas numpy scikit-learn pillow matplotlib
 
-![image](https://github.com/user-attachments/assets/b09755d8-cc3b-4abc-901d-f0a5f042195c)
 
-cd Video
+🛠️ How to Run
+Clone or Download this repository.
 
-
+Navigate into the Video/ folder:
